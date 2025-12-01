@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: noto;
+  src: url("/noto-sans.ttf");
+}
+
+@theme {
+  --font-noto: "noto", sans-serif;
+}
